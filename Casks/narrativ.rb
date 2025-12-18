@@ -1,6 +1,6 @@
 cask "narrativ" do
-  version "1.0.3"
-  sha256 "aeadf87648467b35bd41f120f96e51667c75e87e61d65a776605a83491f3e7c0"
+  version "1.0.4"
+  sha256 "a230819136fc3dd9734e729fa6e34b224b8c7a62ee338da4944ebe9773190be4"
 
   url "https://github.com/chaiovercode/getnarrativ/releases/download/v#{version}/Narrativ_#{version}_aarch64.dmg"
   name "Narrativ"
